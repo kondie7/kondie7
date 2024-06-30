@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Collins Ondiek.
 - 👀 I’m interested in Data Science and Analytics.
 - 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data-driven projects, machine learning models, and analytics solutions.
 - 📫 Reach me at kondiekcolnz@gmail.com
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: The concept of data science has its roots in the 1960s and 1970s. However, it wasn't until the 21st century that it became widely recognized and popular.
